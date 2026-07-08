@@ -2,12 +2,12 @@
 
 # Hey there, I'm Santhosh Kumar V 👋
 
-### Data Science & AI Engineer | Chennai, India
+### Data Analyst & Business Analyst | Chennai, India
 
-[![Profile Views](https://komarev.com/ghpvc/?username=venkatraman0400-blip&color=blue&style=flat-square)](https://github.com/venkatraman0400-blip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkatraman--r-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/venkatraman0400)
+[![Profile Views](https://komarev.com/ghpvc/?username=venkatraman0400-blip&color=blue&style=flat-square)](https://github.com/santhosh00716)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkatraman--r-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
-[![Email](https://img.shields.io/badge/Email-venkatraman0400%40gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=venkatraman0400@gmail.com)
+[![Email](https://img.shields.io/badge/Email-santhoshkumar.v.bsc23@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=santhoshkumar.v.bsc23@gmail.com)
 
 </div>
 
@@ -45,14 +45,15 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **AskMyData** | GenAI Q&A app — upload any dataset, query in plain English. LangChain agent auto-selects pandas/SQL, FAISS RAG for schema retrieval, multi-turn memory | LangChain · FAISS · Groq · Streamlit | [🚀 Live](https://askmydata-icuwyzrksfgm4zjktn4tdq.streamlit.app) · [🔗 Repo](https://github.com/venkatraman0400-blip/askmydata) |
+| **AskMyData** | GenAI Q&A app — upload any dataset, query in plain English. LangChain agent auto-selects pandas/SQL, FAISS RAG for schema retrieval, multi-turn memory | LangChain · FAISS · Groq · Streamlit | [🚀 Live](https://askmydata-icuwyzrksfgm4zjktn4tdq.streamlit.app) 
+
 
 ### 🎯 Machine Learning & Fraud Detection
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | **FraudGuard** | Mobile transaction fraud detection — XGBoost + SMOTE + SHAP, AUC 0.97, F1 0.92 | Python · XGBoost · SHAP · Streamlit | [🔗 View](https://github.com/venkatraman0400-blip/Mobile-Fnancial-Transaction-Fraud-Detection) |
-| **BankShield** | Bank account fraud detection — Random Forest, Precision 0.94, Recall 0.89, live on Streamlit | Python · Random Forest · SMOTE · Streamlit | [🚀 Live](https://bankshield-kpfzrzjrnr55b8otwvcoay.streamlit.app) · [🔗 Repo](https://github.com/venkatraman0400-blip/BankShield) |
+| **BankShield** | Bank account fraud detection — Random Forest, Precision 0.94, Recall 0.89, live on Streamlit | Python · Random Forest · SMOTE · Streamlit | [🚀 Live](https://bankshield-kpfzrzjrnr55b8otwvcoay.streamlit.app) 
 
 ### 📊 Data Analytics & Engineering
 
@@ -89,15 +90,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkatraman0400)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=venkatraman0400@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=santhoshkumar.v.bsc23@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>Open to Data Science · ML · AI Engineering · Analytics roles — Let's build something impactful!</i>
+  <i>Open to Data Analyst · Business Analyst · Data Engineering · Analytics roles — Let's build something impactful!</i>
 </div>
 
