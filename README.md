@@ -57,13 +57,13 @@
 
 ### 📊 Data Analytics & Engineering
 
-| Project | Description | Tools | Link |
-|---------|-------------|-------|------|
-| **SalesPulse Dashboard** | Executive Power BI dashboard — 44 DAX measures, star schema, time intelligence | Power BI · DAX · Power Query | [🔗 View](https://github.com/venkatraman0400-blip/SalesPulse-PowerBI-Dashboard) |
-| **SalesPulse Forecaster** | LSTM 12-month sales forecaster with SQLite pipeline and Streamlit UI | TensorFlow · Keras · LSTM · Streamlit | [🔗 View](https://github.com/venkatraman0400-blip/SalesPulse-Forecaster) |
-| **Vehicle Maintenance Dashboard** | Fleet dashboard across 50K vehicles — maintenance, cost tracking, risk scoring | Excel · PivotTables · Slicers | [🔗 View](https://github.com/venkatraman0400-blip/vehicle_maintenance-Dashboard) |
-| **DataHunt** | Modular automated ETL pipeline — CSV to Parquet + Excel with data quality reports | Python · pandas · Parquet | [🔗 View](https://github.com/venkatraman0400-blip/DataHunt) |
-| **StoryData** | Narrative-driven EDA on Ames Housing data — six-act story with animated Plotly charts and Seaborn heatmaps for non-technical stakeholders | Python · Plotly · Seaborn | [🔗 View](https://github.com/venkatraman0400-blip/storydata-eda) |
+| Project | Description | Tools | 
+|---------|-------------|-------|
+| **SalesPulse Dashboard** | Executive Power BI dashboard — 44 DAX measures, star schema, time intelligence | Power BI · DAX · Power Query | 
+| **SalesPulse Forecaster** | LSTM 12-month sales forecaster with SQLite pipeline and Streamlit UI | TensorFlow · Keras · LSTM · Streamlit |
+| **Vehicle Maintenance Dashboard** | Fleet dashboard across 50K vehicles — maintenance, cost tracking, risk scoring | Excel · PivotTables · Slicers | 
+| **DataHunt** | Modular automated ETL pipeline — CSV to Parquet + Excel with data quality reports | Python · pandas · Parquet | 
+| **StoryData** | Narrative-driven EDA on Ames Housing data — six-act story with animated Plotly charts and Seaborn heatmaps for non-technical stakeholders | Python · Plotly · Seaborn | 
 
 ---
 
