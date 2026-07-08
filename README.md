@@ -52,7 +52,7 @@
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **FraudGuard** | Mobile transaction fraud detection — XGBoost + SMOTE + SHAP, AUC 0.97, F1 0.92 | Python · XGBoost · SHAP · Streamlit | [🔗 View](https://github.com/venkatraman0400-blip/Mobile-Fnancial-Transaction-Fraud-Detection) |
+| **FraudGuard** | Mobile transaction fraud detection — XGBoost + SMOTE + SHAP, AUC 0.97, F1 0.92 | Python · XGBoost · SHAP · Streamlit | 
 | **BankShield** | Bank account fraud detection — Random Forest, Precision 0.94, Recall 0.89, live on Streamlit | Python · Random Forest · SMOTE · Streamlit | [🚀 Live](https://bankshield-kpfzrzjrnr55b8otwvcoay.streamlit.app) 
 
 ### 📊 Data Analytics & Engineering
