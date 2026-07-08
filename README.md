@@ -1,101 +1,103 @@
-<h1 align="center">Hi 👋, I'm Santhosh Kumar V</h1>
+<div align="center">
 
-<h3 align="center">Data Analyst | Business Analyst | Technology Analyst | MIS Executive</h3>
+# Hey there, I'm Santhosh Kumar V 👋
 
-<p align="center">
-🎓 B.Sc Computer Science Graduate (2026) <br>
-📍 Chennai, Tamil Nadu, India <br>
-💡 Passionate about Data Analytics, Business Intelligence, AI, and Software Development
-</p>
+### Data Science & AI Engineer | Chennai, India
+
+[![Profile Views](https://komarev.com/ghpvc/?username=venkatraman0400-blip&color=blue&style=flat-square)](https://github.com/venkatraman0400-blip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkatraman--r-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/venkatraman0400)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
+[![Email](https://img.shields.io/badge/Email-venkatraman0400%40gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=venkatraman0400@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 📊 Data Analytics & Business Intelligence Enthusiast
-* 🐍 Strong foundation in Python, SQL, Power BI, and Excel
-* 🤖 Interested in AI, Machine Learning, and Automation
-* 🌱 Currently building **ExpressDS AI**
-* 💼 Open to Data Analyst, Business Analyst, MIS Executive, Technology Analyst, and Graduate Trainee roles
+- 🎓 **B.sc.** from AKASC + **Professional Certification in Data Analyst** — HCL GUVI (2026)
+- 🔍 Actively seeking entry-level **Data Analyst / Business Analyst / Financial Analyst** roles
+- 🛠️ Building end-to-end ML pipelines, GenAI apps, and deployed data products
+- 📍 Based in **Chennai, India**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
-
-### Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-RAG-0064B5?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Projects
 
-### ExpressDS AI
+### 🤖 GenAI & LLM Applications
 
-AI-Powered Data Science Automation Platform
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| **AskMyData** | GenAI Q&A app — upload any dataset, query in plain English. LangChain agent auto-selects pandas/SQL, FAISS RAG for schema retrieval, multi-turn memory | LangChain · FAISS · Groq · Streamlit | [🚀 Live](https://askmydata-icuwyzrksfgm4zjktn4tdq.streamlit.app) · [🔗 Repo](https://github.com/venkatraman0400-blip/askmydata) |
 
-✅ Automated Data Cleaning
+### 🎯 Machine Learning & Fraud Detection
 
-✅ Exploratory Data Analysis (EDA)
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| **FraudGuard** | Mobile transaction fraud detection — XGBoost + SMOTE + SHAP, AUC 0.97, F1 0.92 | Python · XGBoost · SHAP · Streamlit | [🔗 View](https://github.com/venkatraman0400-blip/Mobile-Fnancial-Transaction-Fraud-Detection) |
+| **BankShield** | Bank account fraud detection — Random Forest, Precision 0.94, Recall 0.89, live on Streamlit | Python · Random Forest · SMOTE · Streamlit | [🚀 Live](https://bankshield-kpfzrzjrnr55b8otwvcoay.streamlit.app) · [🔗 Repo](https://github.com/venkatraman0400-blip/BankShield) |
 
-✅ Interactive Data Visualization
+### 📊 Data Analytics & Engineering
 
-✅ Machine Learning Model Training
-
-✅ AI-Powered Insights using Gemini AI
-
-✅ Automated Report Generation
-
-**Tech Stack:** Python, FastAPI, React, Pandas, NumPy, Scikit-Learn, MySQL, Gemini AI
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh00716\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh00716\&layout=compact)
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| **SalesPulse Dashboard** | Executive Power BI dashboard — 44 DAX measures, star schema, time intelligence | Power BI · DAX · Power Query | [🔗 View](https://github.com/venkatraman0400-blip/SalesPulse-PowerBI-Dashboard) |
+| **SalesPulse Forecaster** | LSTM 12-month sales forecaster with SQLite pipeline and Streamlit UI | TensorFlow · Keras · LSTM · Streamlit | [🔗 View](https://github.com/venkatraman0400-blip/SalesPulse-Forecaster) |
+| **Vehicle Maintenance Dashboard** | Fleet dashboard across 50K vehicles — maintenance, cost tracking, risk scoring | Excel · PivotTables · Slicers | [🔗 View](https://github.com/venkatraman0400-blip/vehicle_maintenance-Dashboard) |
+| **DataHunt** | Modular automated ETL pipeline — CSV to Parquet + Excel with data quality reports | Python · pandas · Parquet | [🔗 View](https://github.com/venkatraman0400-blip/DataHunt) |
+| **StoryData** | Narrative-driven EDA on Ames Housing data — six-act story with animated Plotly charts and Seaborn heatmaps for non-technical stakeholders | Python · Plotly · Seaborn | [🔗 View](https://github.com/venkatraman0400-blip/storydata-eda) |
 
 ---
 
-## 🏆 Certifications
+## 📊 Dashboard Previews
 
-* HCL GUVI Data Analyst Certification
-
----
-
-## 🎯 Career Interests
-
-* Data Analyst
-* Business Analyst
-* Technology Analyst
-* MIS Executive
-* Reporting Analyst
-* Operations Analyst
-* QA Analyst
-* Associate Software Engineer
-* Graduate Trainee
+<table>
+  <tr>
+    <td align="center">
+      <strong>SalesPulse — Power BI Dashboard</strong><br>
+      <img src="https://raw.githubusercontent.com/venkatraman0400-blip/SalesPulse-PowerBI-Dashboard/main/assets/dashboard_preview.png" width="420"/>
+    </td>
+    <td align="center">
+      <strong>Automobile Fleet Dashboard — Excel</strong><br>
+      <img src="https://raw.githubusercontent.com/venkatraman0400-blip/vehicle_maintenance-Dashboard/main/assets/dashboard_preview.png" width="420"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+---
 
-🔗 LinkedIn: linkedin.com/in/santhosh-kumar-v-0700b6361
+## 🤝 Let's Connect
 
-💻 GitHub: github.com/santhosh00716
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkatraman0400)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=venkatraman0400@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to Data Science · ML · AI Engineering · Analytics roles — Let's build something impactful!</i>
+</div>
+
