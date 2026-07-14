@@ -5,7 +5,7 @@
 ### Data Analyst & Business Analyst | Chennai, India
 
 [![Profile Views](https://komarev.com/ghpvc/?username=venkatraman0400-blip&color=blue&style=flat-square)](https://github.com/santhosh00716)
-[![LinkedIn]](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
+[![LinkedIn](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
 [![Email](https://img.shields.io/badge/Email-santhoshkumar.v.bsc23@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=santhoshkumar.v.bsc23@gmail.com)
 
