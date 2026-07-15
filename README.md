@@ -73,11 +73,11 @@
   <tr>
     <td align="center">
       <strong>SalesPulse — Power BI Dashboard</strong><br>
-      <img src="https://raw.githubusercontent.com/venkatraman0400-blip/SalesPulse-PowerBI-Dashboard/main/assets/dashboard_preview.png" width="420"/>
+      <img src="./public/images/salespulse.png" width="420"/>
     </td>
     <td align="center">
       <strong>Automobile Fleet Dashboard — Excel</strong><br>
-      <img src="https://raw.githubusercontent.com/venkatraman0400-blip/vehicle_maintenance-Dashboard/main/assets/dashboard_preview.png" width="420"/>
+      <img src="./public/images/vehicle-dashboard.png" width="420"/>
     </td>
   </tr>
 </table>
