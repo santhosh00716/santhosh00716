@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=venkatraman0400-blip&color=blue&style=flat-square)](https://github.com/santhosh00716)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SanthoshKumarV-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=flat-square&logo=github)](https://santhosh00716.github.io/santhoshkumarv-portfolio/)
 [![Email](https://img.shields.io/badge/Email-santhoshkumar.v.bsc23@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=santhoshkumar.v.bsc23@gmail.com)
 
 </div>
@@ -91,7 +91,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/santhosh-kumar-v-0700b6361)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=github)](https://venkatraman0400-blip.github.io/venkatraman-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=github)](https://santhosh00716.github.io/santhoshkumarv-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=santhoshkumar.v.bsc23@gmail.com)
 
 </div>
