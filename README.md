@@ -73,11 +73,11 @@
   <tr>
     <td align="center">
       <strong>SalesPulse — Power BI Dashboard</strong><br>
-      <img src="https://raw.githubusercontent.com/santhosh00716/santhoshkumarv-portfolio/main/assets/salespulse-dashboard.png" width="420"/>
+      <img src="https://raw.githubusercontent.com/santhosh00716/santhosh00716/main/dashboard_preview.png" width="420"/>
     </td>
     <td align="center">
       <strong>Automobile Fleet Dashboard — Excel</strong><br>
-      <img src="https://raw.githubusercontent.com/santhosh00716/santhoshkumarv-portfolio/main/assets/automobile-fleet-dashboard.png" width="420"/>
+      <img src="https://raw.githubusercontent.com/santhosh00716/santhosh00716/main/dashboard_preview%20(1).png" width="420"/>
     </td>
   </tr>
 </table>
